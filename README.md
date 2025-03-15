@@ -77,7 +77,7 @@ forge script script/DeployEscrowMarketplace.s.sol:DeployEscrowMarketplace --broa
 
 Create a `.env` file with:
 ```
-PRIVATE_KEY=your_private_key_without_0x_prefix
+PRIVATE_KEY=your_private_key
 SEPOLIA_RPC_URL=your_sepolia_rpc_url
 ETHERSCAN_API_KEY=your_etherscan_api_key
 ```
